@@ -5,7 +5,7 @@ import android.content.Context;
 import android.content.Intent;
  
  
-public class StartActivityOnBootReceiver extends BroadcastReceiver {
+public class StartActivityOnBoot extends BroadcastReceiver {
  
     @Override
     public void onReceive(Context context, Intent intent) {
